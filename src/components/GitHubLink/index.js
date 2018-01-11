@@ -5,7 +5,7 @@ class GitHubLink extends Component {
   render() {
     return (
       <div>
-        <a href="">View on GitHub</a>
+        <a href="https://github.com/rarshynnyk/catsweather" target="_blank" rel="noopener noreferrer">View on GitHub</a>
       </div>
     );
   }
