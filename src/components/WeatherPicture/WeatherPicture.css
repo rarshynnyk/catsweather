@@ -1,0 +1,16 @@
+.weather-picture {
+  color: #fff;
+  text-align: center;
+}
+
+.weather-picture__title {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.weather-picture__img {
+  max-width: 500px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
